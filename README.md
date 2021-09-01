@@ -44,10 +44,11 @@ Users should be able to:
  - Introduction to SVGs
  - Introduction to background images with transparency
  - How to make a box shadow on only one side of an element
- 
+ - Best practice is to include certain roles on elements of your site
 ### Useful resources
 
 - [css-tricks / css almanac / box-shadow](https://css-tricks.com/almanac/properties/b/box-shadow/) - a rundown on box shadow. This is where I learned how to create a box shadow on one side of an element.
+- [Deque University - Page must have one main landmark](https://dequeuniversity.com/rules/axe/4.2/landmark-one-main?application=axeAPI) - Info about roles you typically include on your site.
 
 ## Author
 - Frontend Mentor - [@JonMStevens](https://www.frontendmentor.io/profile/JonMStevens)
